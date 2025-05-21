@@ -44,4 +44,4 @@ VITE_API_URLL=http://localhost:5000/api
 4. Open app on frontend localhost link or http://localhost:5173/
 
 ## SCREENSHOT 
-<img src="screenshot/email_sage.png">
+<img src="screenshot/email_sage_updated.png">
