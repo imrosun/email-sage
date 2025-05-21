@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const { PORT, MONGO_URI } = require('./config');
+// const { PORT, MONGO_URI } = require('./config');
 const app = require('./app.js');
 const startEmailScheduler = require('./jobs/emailScheduler.js');
 
